@@ -9,7 +9,7 @@ header:
 excerpt: ''
 ---
 
-I’m experienced Remote Sensing, GIS, and full-stack software developer, with a proven track record of leveraging Copernicus data and Earth Observation and GIS services to support informed decision-making. 
+I’m experienced Remote Sensing and GIS expert, with a proven track record of leveraging Integrated Programming, Earth Observation and GIS services to support informed decision-making. 
 I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency. 
 
 ### Conferences, Courses & Training
