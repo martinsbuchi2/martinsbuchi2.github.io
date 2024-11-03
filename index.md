@@ -10,7 +10,7 @@ excerpt: ''
 ---
 
 I’m experienced Remote Sensing and GIS expert, with a proven track record of leveraging Integrated Programming, Earth Observation and GIS services to support informed decision-making. 
-I am eager to further my career through a fully funded scholarship, aiming to deepen my expertise in geospatial technology and Earth observation while focusing on applying programming tools to enhance analytical processes and operational efficiency. 
+I am intellectually curious, a fast learner, result-oriented, intuitively data-driven, and fully prepared for the rigors of a postgraduate program abroad to deepen my expertise further and make an even more profound impact in society. 
 
 ### Conferences, Courses & Training
 ### See [the Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
