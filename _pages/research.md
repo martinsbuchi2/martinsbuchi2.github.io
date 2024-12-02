@@ -35,8 +35,8 @@ feature_row3:
 # EO | GIS | Electrification
 
 ## Links to some of my featured presentations:
-- [Solarization of Public Institutions in Nigeria](https://drive.google.com/file/d/1wet2yDbsiHmRbpqL-duNkz7NAE81c-u0/view?usp=sharing)
 - [REA Three-Year (2020 to 2022) Impact Snapshot](https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/)
+- [Solarization of Public Institutions in Nigeria](https://drive.google.com/file/d/1wet2yDbsiHmRbpqL-duNkz7NAE81c-u0/view?usp=sharing)
 - [28th Edition of the Conference of Parties (COP 28)](https://drive.google.com/file/d/1DEagcdNTOGmvjZURuTGazm_llV-kZCqK/view?usp=sharing)
 - [REA 2023 Project Implementation Report](https://drive.google.com/file/d/1TypnDV6gpySLJJO7v4UANxrX-OarIkTx/view?usp=sharing)
 - [REA's Renewable Energy Innovations](https://drive.google.com/file/d/1CyjZ4Hgo7o6FToXpsAvS_HR0IfVkAb_x/view?usp=sharing)
