@@ -32,8 +32,6 @@ feature_row3:
       <br /> 
       See [My Last 6 Months Appraisal](https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing):  duly approved and signed by the Executive Director
 ---
-# EO | GIS | Electrification
-
 ## Links to some of my featured presentations:
 - [REA Three-Year (2020 to 2022) Impact Snapshot](https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/)
 - [Solarization of Public Institutions in Nigeria](https://drive.google.com/file/d/1wet2yDbsiHmRbpqL-duNkz7NAE81c-u0/view?usp=sharing)
@@ -41,6 +39,7 @@ feature_row3:
 - [REA 2023 Project Implementation Report](https://drive.google.com/file/d/1TypnDV6gpySLJJO7v4UANxrX-OarIkTx/view?usp=sharing)
 - [REA's Renewable Energy Innovations](https://drive.google.com/file/d/1CyjZ4Hgo7o6FToXpsAvS_HR0IfVkAb_x/view?usp=sharing)
 
+# EO | GIS | Electrification
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}
 
