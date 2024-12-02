@@ -38,7 +38,6 @@ feature_row3:
 - [28th Edition of the Conference of Parties (COP 28)](https://drive.google.com/file/d/1DEagcdNTOGmvjZURuTGazm_llV-kZCqK/view?usp=sharing)
 - [REA 2023 Project Implementation Report](https://drive.google.com/file/d/1TypnDV6gpySLJJO7v4UANxrX-OarIkTx/view?usp=sharing)
 - [REA's Renewable Energy Innovations](https://drive.google.com/file/d/1CyjZ4Hgo7o6FToXpsAvS_HR0IfVkAb_x/view?usp=sharing)
-
 # EO | GIS | Electrification
 {% include feature_row id="feature_row1" type="left" %}  
 {% include feature_row id="feature_row2" type="left" %}
