@@ -32,13 +32,7 @@ feature_row3:
       <br /> 
       See [My Last 6 Months Appraisal](https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing):  duly approved and signed by the Executive Director
 ---
-
-{% include feature_row id="feature_row1" type="left" %}  
-{% include feature_row id="feature_row2" type="left" %}
-
-## EO | GIS | Electrification
-
-{% include feature_row id="feature_row3" type="left" %}
+# EO | GIS | Electrification
 
 ## Links to My Featured Presentations:
 
@@ -46,3 +40,9 @@ feature_row3:
 - [28th Edition of the Conference of Parties (COP 28)](https://drive.google.com/file/d/1DEagcdNTOGmvjZURuTGazm_llV-kZCqK/view?usp=sharing)
 - [REA 2023 Project Implementation Report](https://drive.google.com/file/d/1TypnDV6gpySLJJO7v4UANxrX-OarIkTx/view?usp=sharing)
 - [REA's Renewable Energy Innovations](https://drive.google.com/file/d/1CyjZ4Hgo7o6FToXpsAvS_HR0IfVkAb_x/view?usp=sharing)
+
+{% include feature_row id="feature_row1" type="left" %}  
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="left" %}
+
