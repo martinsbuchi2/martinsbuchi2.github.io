@@ -90,7 +90,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 
 <tr>
 <td class="td-align"><img src="/assets/images/earth_engine.gif" alt="Image 3"/><br/>
-      <a href="https://example.com/link1">Google Earth Engine (GEE): JavaScript API</a><br/>
+      <label>**Google Earth Engine (GEE): JavaScript API**</label><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">GEE simplifies complex geospatial computations, such as image classification and time-series analysis, making it a vital tool for researchers, policymakers, and GIS professionals addressing global challenges.</p>
       <p> See the <a href="https://code.earthengine.google.com/9442a8279cdde14de863805b5368ddd0"> Code link</a>
