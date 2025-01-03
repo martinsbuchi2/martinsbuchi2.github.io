@@ -10,7 +10,7 @@ header:
   caption:
 ---
 # Highlighting some of My Projects
-Through my work with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to innovative projects in **Earth Observation, remote sensing, GIS and integrated programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
+Through my work with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to innovative projects in **Earth Observation, Remote Sensing, GIS and Integrated Programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -112,7 +112,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       <p class="toggle-paragraph">Spatial Data Infrastructure (SDI) involves creating a framework for managing, sharing, and accessing geospatial data efficiently. GeoNode/GeoServer for geospatial data management, Docker for efficient deployment, and GeoDjango for custom spatial applications.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/SDI-with-geonode.git"> GitHub link</a>
       </p></div>
-</td>  
+</td>
 <td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
       <label><strong>6. Applying ArcGIS Dashboard: REA Project Distribution</strong></label> <br/>
        <div class="paragraph-wrapper">
