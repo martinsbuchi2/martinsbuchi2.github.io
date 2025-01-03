@@ -9,9 +9,9 @@ header:
     overlay_image: /assets/images/conference1.jpg
     caption: TAG
 ---
+# Outreach and Social Involvements
 
-# Geospatial technologies, Environmental, and Social Development Goals (SDGs)
-
+My professional growth has greatly benefited from interacting with people from diverse cultures. From organizing community outreaches and working with stakeholders at REA to working with a global team at INTEGRATION Consulting.
 
 <head>
   <!-- <meta charset="UTF-8">
