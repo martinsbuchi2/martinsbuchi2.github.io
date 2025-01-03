@@ -9,8 +9,8 @@ header:
   overlay_image: /assets/images/header_photo1.jpeg
   caption:
 ---
+Through my work with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to innovative projects in **Earth Observation, remote sensing, GIS and integrated programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
 
-# Earth Observation | Remote Sensing | GIS | Python | JavaScript | Relevant Frameworks/Libraries
 
 <head>
   <meta charset="UTF-8">
