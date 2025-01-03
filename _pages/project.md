@@ -80,7 +80,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       </p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/Imgur.gif" alt="Image 2"/><br/>
-      <a href="https://example.com/link1">Python API for Earth Engine: Geemap and Leafmap</a><br/>
+      <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/79_timeseries.ipynb">Python API for Earth Engine: Geemap and Leafmap</a><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Geemap and Leafmap are Python libraries for geospatial data visualization. Geemap focuses on Google Earth Engine integration for analyzing satellite imagery, while Leafmap specializes in creating interactive maps with tools like Folium and Kepler.gl. Both simplify geospatial analysis and visualization.</p>
       <p> See the <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/79_timeseries.ipynb"> Code link</a></p></div>
@@ -97,7 +97,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       </p></div>
 </td>   
 <td class="td-align"><img src="/assets/images/atlas.gif" alt="Image 4"/><br/>
-      <a href="https://example.com/link1">Automating Map Design and Presentation Using Python Script, QGIS Atlas and Expressions</a><br/>
+      <a href="https://www.linkedin.com/posts/martinsugwu_gis-remotesensing-googleearthengine-activity-7240309234624548865-lfJ9?utm_source=share&utm_medium=member_desktop">Automating Map Design and Presentation Using Python Script, QGIS Atlas and Expressions</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">QGIS Atlas is a powerful tool for automating the creation of map series by generating multiple maps based on data from a single layout template. Combined with QGIS expressions, it enables dynamic customization of map elements, such as labels, symbology, and annotations, tailored to each feature in the dataset. This automation streamlines repetitive mapping tasks, ensures consistency, and enhances efficiency in producing professional-quality maps, making it ideal for large-scale projects like site selection, land-use planning, and reporting.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/QGIS-Atlas.git"> GitHub link</a>
@@ -107,14 +107,14 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 
 <tr> 
 <td class="td-align"><img src="/assets/images/geonode.png" alt="Image 5"/><br/>
-      <a href="https://example.com/link1">Spatial Data Infrastructure with GeoNode, Geoserver, GeoDjango and Docker</a><br/>
+      <a href="https://github.com/martinsbuchi2/SDI-with-geonode.git">Spatial Data Infrastructure with GeoNode, Geoserver, GeoDjango and Docker</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Spatial Data Infrastructure (SDI) involves creating a framework for managing, sharing, and accessing geospatial data efficiently. GeoNode/GeoServer for geospatial data management, Docker for efficient deployment, and GeoDjango for custom spatial applications.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/SDI-with-geonode.git"> GitHub link</a>
       </p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
+      <a href="https://github.com/martinsbuchi2/Dashboard-with-ArcGIS.git">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">These visualizations provide insights into energy project distributions, grid extension coverage, and areas requiring intervention. Custom symbology, labeling, and spatial analytics allow stakeholders to identify patterns and prioritize efforts effectively, ensuring that unserved and underserved communities benefit from targeted energy access initiatives.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/Dashboard-with-ArcGIS.git"> GitHub link</a>
@@ -124,14 +124,14 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 
 <tr> 
 <td class="td-align"><img src="/assets/images/geemapPro2.jpg" alt="Image 5"/><br/>
-      <a href="https://example.com/link1">Spatial Data Analysis: Data Engineering and Visualization</a><br/>
+      <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git">Spatial Data Analysis: Data Engineering and Visualization</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Spatial Data Analysis combines data engineering and visualization to transform raw geospatial data into actionable insights. It uses techniques like geocoding and spatial clustering for analysis, while tools like heatmaps and 3D mapping make complex patterns clear, enabling informed decisions for challenges like urban planning and renewable energy deployment.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git"> GitHub link</a>
       </p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
+      <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">These visualizations provide insights into energy project distributions, grid extension coverage, and areas requiring intervention. Custom symbology, labeling, and spatial analytics allow stakeholders to identify patterns and prioritize efforts effectively, ensuring that unserved and underserved communities benefit from targeted energy access initiatives.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git"> GitHub link</a>
