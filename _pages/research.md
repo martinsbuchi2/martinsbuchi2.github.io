@@ -7,7 +7,7 @@ layout: single
 title: "Research"
 header:
   overlay_image: /assets/images/research.jpg
-  caption: Otamiri River
+  caption: Otamiri River, Southern Nigeria
 ---
 # Research Interest: Earth Observation | Remote Sensing | GIS | Renewable Energy | Urban Planning | Environmental Management
 <head>
