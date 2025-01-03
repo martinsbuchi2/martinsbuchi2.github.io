@@ -31,7 +31,7 @@ My professional growth has greatly benefited from interacting with people from d
     img {
       width: 100%;
       max-width: 500px;
-      max-height: 350px;
+      max-height: 320px;
       border-radius: 15px;
       border: 1px solid #000000;
       margin-bottom: 10px;
