@@ -80,21 +80,21 @@ My professional growth has greatly benefited from interacting with people from d
       <br />
       <p> See <a href="(https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Poster Presentation: </a> 2021 World Environment Day Celebration, themed: <italics>"Ecosystem Restoration"</italics></p></p></div>
 </td>  
-<td class="td-align"><img src="/assets/images/wed2017.jpg" alt="Image 2"/><br/>
-      <a href="https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">2021 World Environment Day Celebration at FUTO</a><br/>
+<td class="td-align"><img src="/assets/images/advantage.jpg" alt="Image 2"/><br/>
+      <a href="https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">World Environment Day Celebration at FUTO</a><br/>
       <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">Building on the success of TAG 17, my team took on the responsibility of organizing the World Environment Day celebration. During the event, we led several community service initiatives, including tree-planting exercise within the FUTO environment, clean-up campaign in parks, drainages, and the Otamiri River within the school environment. We also arranged panel discussions with experts on relevant topics on climate change and environmental conservation. <br />
+      <p class="toggle-paragraph">Building on the success of TAG over the year, my team took on the responsibility of organizing the World Environment Day celebration. During the event, we led several community service initiatives, including tree-planting exercise within the FUTO environment, clean-up campaign in parks, drainages, and the Otamiri River within the school environment. We also arranged panel discussions with experts on relevant topics on climate change and environmental conservation. <br />
       <br />
-      <p> See <a href="https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Poster Presentation: </a> NASRDA 2018 GIS Day, themed: <italics>"Ecosystem Restoration"</italics></p></p></div>
+      <p> See <a href="https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Poster Presentation: </a> 2021 World Environment Day: <italics>"Ecosystem Restoration"</italics></p></p></div>
 </td> 
 </tr>
  <tr>
-<td class="td-align"><img src="/assets/images/advantage.jpg" alt="Image 4"/><br/>
+<td class="td-align"><img src="/assets/images/wed2017.jpg" alt="Image 4"/><br/>
       <a href="https://example.com/link1">GIS Day Conference at the National Space Research and Development Agency (NASRDA)</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">This study examines the impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed spanning across Owerri to Rivers States, Southern, Nigeria. Using the Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies, the research tracks LULC changes between 1996 and 2016. The findings indicate significant deforestation and land conversion, leading to increased soil erosion. This necessitates the implementation of sustainable land management practices to mitigate further degradation. <br />
       <br />
-      <p> See <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">Poster Presentation: </a> 2021 World Environment Day Celebration, themed: <bold>"Geospatial Technologies for National Development"</bold></p></p></div>
+      <p> See <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">Poster Presentation: </a> 2018 GIS Day, themed: <bold>"Geospatial Technologies for National Development"</bold></p></p></div>
 </td> 
 
 <td class="td-align"><img src="/assets/images/LAI_StockSnap_OOP3TR13DA.jpg" alt="Image 3"/><br/>
