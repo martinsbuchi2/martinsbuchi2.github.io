@@ -9,7 +9,10 @@ header:
   overlay_image: /assets/images/research.jpg
   caption: Otamiri River, Southern Nigeria
 ---
-# Research Interest: Earth Observation | Remote Sensing | GIS | Renewable Energy | Urban Planning | Environmental Management
+# Research and Research Interest
+
+My research interests focus on leveraging geospatial technologies, Earth Observation, and remote sensing to promote sustainability. I am particularly drawn to using spatial analysis, GeoAI and data integration to model ecosystem dynamics, support policy development, and drive impactful solutions for environmental challenges.
+
 <head>
   <!-- <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
