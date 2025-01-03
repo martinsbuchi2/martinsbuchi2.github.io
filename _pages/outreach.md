@@ -97,7 +97,7 @@ My professional growth has greatly benefited from interacting with people from d
       <p> See <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">Poster Presentation: </a> 2018 GIS Day, themed: <bold>"Geospatial Technologies for National Development"</bold></p></p></div>
 </td> 
 
-<td class="td-align"><img src="/martinsbuchi2.github.io/" alt="Image 3"/><br/>
+<td class="td-align"><img src="/assets/images/energize.jpg" alt="Image 3"/><br/>
       <a href="https://example.com/link1">Energize Conference (Renewable Energy Career Fair)</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">At the 2021 Energize Conference, I co-organized a panel discussion featuring GIS professionals from the energy sector, focusing on the intersection of geospatial technology and renewable energy. The session highlighted GIS’s role in optimizing renewable energy systems, planning infrastructure, and addressing energy challenges. I also discussed career opportunities within the sector, emphasizing the growing demand for GIS expertise and the essential skills required, such as spatial analysis, data visualization, and remote sensing. The event served as a platform for educating aspiring professionals and reinforcing the significance of GIS in shaping the future of sustainable energy and career growth. <br />
