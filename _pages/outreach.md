@@ -92,20 +92,17 @@ My professional growth has greatly benefited from interacting with people from d
 <td class="td-align"><img src="/assets/images/wed2017.jpg" alt="Image 4"/><br/>
       <a href="https://example.com/link1">GIS Day Conference at the National Space Research and Development Agency (NASRDA)</a><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">This study examines the impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed spanning across Owerri to Rivers States, Southern, Nigeria. Using the Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies, the research tracks LULC changes between 1996 and 2016. The findings indicate significant deforestation and land conversion, leading to increased soil erosion. This necessitates the implementation of sustainable land management practices to mitigate further degradation. <br />
+      <p class="toggle-paragraph">At the 2018 GIS Day Conference hosted by the National Space Research and Development Agency (NASRDA), I contributed to community-focused mapping projects, co-hosted beginner GIS workshops, and joined a team of experts visiting the University of Abuja to deliver presentations on GIS applications. These experiences highlighted the transformative potential of GIS for addressing real-world challenges, fostering learning, and bridging the gap between academia and industry. <br />
       <br />
       <p> See <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">Poster Presentation: </a> 2018 GIS Day, themed: <bold>"Geospatial Technologies for National Development"</bold></p></p></div>
 </td> 
 
-<td class="td-align"><img src="/assets/images/LAI_StockSnap_OOP3TR13DA.jpg" alt="Image 3"/><br/>
+<td class="td-align"><img src="/assets/images/energize.jpg" alt="Image 3"/><br/>
       <a href="https://example.com/link1">Professional Experience and Key Achievements in EO and Geospatial Technologies</a><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">As a Geodata Analyst at INTEGRATION Consulting, I contributed to the Nigeria Energy Support Program (co-funded by the EU and German BMZ). In this role, I managed a nationwide data pipeline and played a key part in developing the Nigeria SE4ALL web map, visualizing over 1M points of interest (POIs).
-
-Since joining the REA as a Technical Assistant to the office of Executive Director on Geospatial Analysis, My work has enbled the Agency to successfully implement 160+ MW of clean energy, extending the national grid by over 5,00km
-. <br />
+      <p class="toggle-paragraph">At the 2021 Energize Conference, I co-organized a panel discussion featuring GIS professionals from the energy sector, focusing on the intersection of geospatial technology and renewable energy. The session highlighted GIS’s role in optimizing renewable energy systems, planning infrastructure, and addressing energy challenges. I also discussed career opportunities within the sector, emphasizing the growing demand for GIS expertise and the essential skills required, such as spatial analysis, data visualization, and remote sensing. The event served as a platform for educating aspiring professionals and reinforcing the significance of GIS in shaping the future of sustainable energy and career growth. <br />
       <br />
-      <p> See <a href="(https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Poster Presentation: </a> 2021 World Environment Day Celebration, themed: <bold>"Ecosystem Restoration"</bold></p></p></div>
+      </p></div>
 </td>    
 </tr> 
 <!-- <tr> 
