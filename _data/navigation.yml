@@ -1,9 +1,12 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Project"
+    url: /techstack/
+  - title: "Outreach"
+    url: /outreach/
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: /cv/
+  
