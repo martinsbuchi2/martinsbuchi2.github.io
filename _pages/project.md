@@ -73,14 +73,14 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 <table>  
 <tr>  
 <td class="td-align"><img src="/assets/images/bikeTrack.gif" alt="Image 1"/><br/>
-      <a href="https://medium.com/@martinsbuchie/animating-gps-tracks-using-qgis-a-dynamic-approach-to-spatial-visualization-97734affd6ca">Animating GPS Tracks using QGIS</a><br/>
+      <label>Animating GPS Tracks using QGIS</label><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">This technique provides a dynamic and intuitive way to interpret geospatial data over time. It involves visualizing temporal and spatial data dynamically, enabling an engaging representation of movement patterns over time. It can be applied in tracking wildlife movement, analyzing vehicle or pedestrian trajectories, visualizing migration patterns or disaster response activities.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/GPS-tracking-with-QGIS.git"> GitHub link</a>
       </p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/Imgur.gif" alt="Image 2"/><br/>
-      <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/79_timeseries.ipynb">Python API for Earth Engine: Geemap and Leafmap</a><br/>
+      <label>Python API for Earth Engine: Geemap and Leafmap</label><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Geemap and Leafmap are Python libraries for geospatial data visualization. Geemap focuses on Google Earth Engine integration for analyzing satellite imagery, while Leafmap specializes in creating interactive maps with tools like Folium and Kepler.gl. Both simplify geospatial analysis and visualization.</p>
       <p> See the <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/79_timeseries.ipynb"> Code link</a></p></div>
