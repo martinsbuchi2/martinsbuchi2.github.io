@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Martins I. Ugwu"
+  name   : "Martins Ibuchukwu Ugwu"
   avatar : "/assets/images/profile_photo.JPG"
-  bio    : "Remote Sensing, Earth Observation & GIS Services <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Nigeria | "
+  bio    : "Remote Sensing, Earth Observation & GIS Services <br />   <br /> SDG 7 & 13 <br />  <br /> 📍Abuja, Nigeria | "
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
