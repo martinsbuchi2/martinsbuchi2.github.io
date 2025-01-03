@@ -82,3 +82,46 @@ Student Energy Fellowship
 * `2016 – date`
 [Geo-Information Society of Nigeria (GEOSON)](https://geoson.ng/become-a-member/)
 
+
+
+<div id="theme-toggle" 
+     style="position: fixed; top: 20px; right: 20px; z-index: 1000; cursor: pointer; font-size: 24px;" 
+     onclick="toggleTheme()">
+  <span id="toggle-icon">☀️</span>
+</div>
+
+<script>
+  function toggleTheme() {
+    const body = document.body;
+    const icon = document.getElementById('toggle-icon');
+    const isDark = body.classList.toggle('dark-theme');
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
+    icon.textContent = isDark ? '☀️' : '🌙';
+  }
+
+  (function() {
+    const savedTheme = localStorage.getItem('theme') || 'dark';
+    const body = document.body;
+    const icon = document.getElementById('toggle-icon');
+    if (savedTheme === 'dark') {
+      body.classList.add('dark-theme');
+      icon.textContent = '☀️';
+    } else {
+      icon.textContent = '🌙';
+    }
+  })();
+</script>
+
+<style>
+body {
+  background-color: white;
+  color: black;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+body.dark-theme {
+  background-color: #121212;
+  color: white;
+  transition: background-color 0.3s, color 0.3s;
+}
+</style>
