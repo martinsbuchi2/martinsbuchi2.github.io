@@ -80,7 +80,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       </p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/Imgur.gif" alt="Image 2"/><br/>
-      <label>Python API for Earth Engine: Geemap and Leafmap</label><br/>
+      <label><strong>1. Python API for Earth Engine: Geemap and Leafmap</strong></label><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Geemap and Leafmap are Python libraries for geospatial data visualization. Geemap focuses on Google Earth Engine integration for analyzing satellite imagery, while Leafmap specializes in creating interactive maps with tools like Folium and Kepler.gl. Both simplify geospatial analysis and visualization.</p>
       <p> See the <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/79_timeseries.ipynb"> Code link</a></p></div>
