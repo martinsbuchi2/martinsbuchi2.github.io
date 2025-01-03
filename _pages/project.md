@@ -130,11 +130,11 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       <p> See the <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git"> GitHub link</a>
       </p></div>
 </td>  
-<td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
-      <label><strong>8. Applying ArcGIS Dashboard: REA Project Distribution</strong></label><br/>
+<td class="td-align"><img src="/assets/images/geopandas.png" alt="Image 6"/><br/>
+      <label><strong>8. Exploring Geospatial Visualization with GeoPandas and Leafmap</strong></label><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">These visualizations provide insights into energy project distributions, grid extension coverage, and areas requiring intervention. Custom symbology, labeling, and spatial analytics allow stakeholders to identify patterns and prioritize efforts effectively, ensuring that unserved and underserved communities benefit from targeted energy access initiatives.</p>
-      <p> See the <a href="https://github.com/martinsbuchi2/Data_Engine_with_ArcGIS.git"> GitHub link</a>
+      <p class="toggle-paragraph">This exercise focused on creating a geospatial analysis and visualization workflow using Python's GeoPandas and Leafmap libraries. The goal was to enhance my proficiency in handling geospatial data and developing interactive maps for spatial data analysis. The excercise strengthened my ability to manage geospatial datasets, develop interactive visualizations, and integrate open-source Python tools into GIS workflows, laying the groundwork for future geospatial analysis initiatives.</p>
+      <p> See the <a href="https://colab.research.google.com/github/opengeos/leafmap/blob/master/docs/notebooks/13_geopandas.ipynb"> Code link</a>
       </p></div>
 </td>  
 </tr>
