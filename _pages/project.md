@@ -73,7 +73,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 <table>  
 <tr>  
 <td class="td-align"><img src="/assets/images/bikeTrack.gif" alt="Image 1"/><br/>
-      <label>Animating GPS Tracks using QGIS</label><br/>
+      <label><bold>Animating GPS Tracks using QGIS</bold></label><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">This technique provides a dynamic and intuitive way to interpret geospatial data over time. It involves visualizing temporal and spatial data dynamically, enabling an engaging representation of movement patterns over time. It can be applied in tracking wildlife movement, analyzing vehicle or pedestrian trajectories, visualizing migration patterns or disaster response activities.</p>
       <p> See the <a href="https://github.com/martinsbuchi2/GPS-tracking-with-QGIS.git"> GitHub link</a>
