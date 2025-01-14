@@ -13,6 +13,12 @@ I’m experienced Remote Sensing and GIS expert, with a proven track record of l
 
 ### Events: Conferences | Workshops | Courses & Training
 ### See [the Associated Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
+
+
+ **`2025:`**
+
+* **February:** In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I'm happy to announce my nomination for the [International Centre for Hydropower (ICH) Leadership in Dam Safety Seminar](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, sponsored by the Norwegian Embassy. I'm grateful for this opportunity to contribute to Africa's sustainable energy future!
+
  **`2024:`**
 
 * **November - December:** Excited to enroll for Cloud Computing and Algorithms for EO analyses. This [EO Africa (Research & Development Facility)](https://www.eoafrica-rd.org/) course will provide hands-on experience with cloud computing platforms and significantly improve my ability to handle large-scale EO datasets and enhance data-driven decision-making.
