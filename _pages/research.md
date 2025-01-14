@@ -125,4 +125,9 @@ My research interests focus on leveraging geospatial technologies, Earth Observa
 
 
 Through my involvement with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to various projects and initiatives, including but not limited to:
-- 
+
+
+- [Delivering Energy Access Solutions for Sustainable Development](https://rea.gov.ng/report-delivering-energy-access-solutions-sustainable-development/)
+- [Integrating E-mobility with Mini Grids in Rural Nigeria](https://rea.gov.ng/report-integrating-e-mobility-mini-grids-rural-nigeria/)
+- [REA Harmonised Technical Standards: Design and Minimum Specifications](https://rea.gov.ng/rea-harmonised-technical-standards-design-minimum-specifications/)
+- [REA Impact Report](https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/)
