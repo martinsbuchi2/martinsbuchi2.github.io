@@ -74,14 +74,14 @@ My research interests focus on leveraging geospatial technologies, Earth Observa
 <table>  
 <tr>  
 <td class="td-align"><img src="/assets/images/photosynthesis_CAS.png" alt="Image 1"/><br/>
-      <a href="(https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Effect of land use land cover changes on the rate of soil erosion in the Otamiri Watershed, Southern Nigeria</a><br/>
+      <a href="(https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">1. Effect of land use land cover changes on the rate of soil erosion in the Otamiri Watershed, Southern Nigeria</a><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">This study examines the impact of land use and land cover (LULC) changes on soil erosion rates within the Otamiri watershed spanning across Owerri to Rivers States, Southern, Nigeria. Using the Revised Universal Soil Loss Equation (RUSLE) integrated with remote sensing and GIS technologies, the research tracks LULC changes between 1996 and 2016. The findings indicate significant deforestation and land conversion, leading to increased soil erosion. This necessitates the implementation of sustainable land management practices to mitigate further degradation. <br />
       <br />
       <p> See <a href="(https://drive.google.com/file/d/125UMIJKCs6rYyxgpQzGqWOI_snqkqVII/view?usp=sharing">Poster Presentation: </a> 2021 World Environment Day Celebration, themed: <italics>"Ecosystem Restoration"</italics></p></p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/crop_irrigation.jpg" alt="Image 2"/><br/>
-      <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">GIS Approach to Site Suitability for Large-Scale Solar Farms in Osun East District, Nigeria</a><br/>
+      <a href="https://drive.google.com/file/d/1vHLr9sQ9xq16wzPUQyQrtkBsTeU486GB/view?usp=sharing">2. GIS Approach to Site Suitability for Large-Scale Solar Farms in Osun East District, Nigeria</a><br/>
       <div class="paragraph-wrapper">
       <p class="toggle-paragraph">This study focuses on identifying optimal sites for large-scale solar farms within the Osun East District, Nigeria. It employs GIS and Analytic Hierarchical Process (AHP) to perform suitability analysis, identifying the most favorable locations based on environmental, social, and technical criteria. The study reveals that approximately 2.6% of the total area is highly suitable, potentially generating 3,470 MW of electricity, while moderately suitable areas could yield an additional 28,000 MW. The findings highlight the significant renewable energy potential in Osun East. <br />
       <br />
