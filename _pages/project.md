@@ -150,7 +150,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
       <label><strong>10. <a href="https://rea.gov.ng/rea-impact-report-3-year-impact-snapshot/">Professional Experience and Key Achievements in EO and Geospatial Technologies: REA in Summary</a></strong></label><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">Since joining the REA as a Technical Assistant to the office of Executive Director on Geospatial Analysis, My work has enbled the Agency to successfully implement 160+ MW of clean energy, extending the national grid by over 5,00km.
-      <p> See <a href="(https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing">My Last 6 Months Appraisal </a> duly assessed and signed by the Executive Director</p>
+      <p> See <a href="https://drive.google.com/file/d/1qLpKCO9touJwhKbNQxx0MdGmObRhNmp5/view?usp=sharing">My Last 6 Months Appraisal </a> duly assessed and signed by the Executive Director</p>
       </p></div>
 </td>  
 </tr> 
