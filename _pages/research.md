@@ -121,5 +121,8 @@ My research interests focus on leveraging geospatial technologies, Earth Observa
   </script>
 </body>
 
+## Other Contributions
+
+
 Through my involvement with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to various projects and initiatives, including but not limited to:
 - 
