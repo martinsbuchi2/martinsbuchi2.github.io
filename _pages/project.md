@@ -6,8 +6,8 @@ type: page
 classes: wide
 layout: single
 header:
-  overlay_image: /assets/images/header_photo1.jpeg
-  caption:
+  overlay_image: /assets/images/header_photo_small.jpg
+  caption: Jabi Lake, Abuja, Nigeria 
 ---
 # Highlighting some of My Projects
 Through my work with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to innovative projects in **Earth Observation, Remote Sensing, GIS and Integrated Programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
