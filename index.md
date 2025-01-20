@@ -34,7 +34,11 @@ I’m experienced Remote Sensing and GIS expert, with a proven track record of l
 * **October:** Joined the Sixth Edition of The Social Town Talk Series - International Carbon Conference supported by Neem Software.
 * **September:** Joined 8th edition of International Youth Conference (IYC) held in hybrid format in New York City, USA. under the theme *"Empowering Youth to Achieve the Sustainable Development Goals"* in partnership with UN-Habitat and Global Civil Society Organizations.
 
+**`2022:`**
 
+* **November:** NASRDA 2022 GIS Day Celebration.
+* **June:** Joine as a deligate at the Conferenece of Youth on Environment and Climate (COYEC) 2022 under the theme Youth-Led Actions for Climate Resilience and Sustainable Development.
+* **June:** World Environment Day Conference, 2022.
 
 
 
