@@ -9,7 +9,7 @@ header:
 excerpt: ''
 ---
 
-I’m experienced Remote Sensing and GIS expert, with a proven track record of leveraging Integrated Programming, Earth Observation and GIS services to support informed decision-making. I am intellectually curious, a fast learner, result-oriented, intuitively data-driven, and fully prepared for the rigors of a graduate program abroad to deepen my expertise and make an even more profound impact in society.
+I’m experienced Remote Sensing and GIS expert, with a proven track record of leveraging Integrated Programming, Earth Observation and GIS services to support informed decision-making. I am intellectually curious, a fast learner, result-oriented, intuitively data-driven, and fully prepared for the rigors of a graduate program to deepen my expertise and make an even more profound impact in society.
 
 ### Recent Events: Conferences | Workshops | Courses & Training
 ### See [the Relevant Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
