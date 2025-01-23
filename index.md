@@ -17,6 +17,7 @@ I’m experienced Remote Sensing and GIS expert, with a proven track record of l
 
  **`2025:`**
 
+* **January:** I'm excited to announce my enrollment in the [Geographic Software Design](https://geog-510.gishub.org/) course by the University of Tennessee, Knoxville! This program will enhance my skills in open-source Python development for geospatial analysis and interactive mapping, fostering my contributions to the open-source community.
 * **February:** In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I'm happy to announce my nomination for the [International Centre for Hydropower (ICH)](https://ich.no/) [Leadership in Dam Safety Seminar](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, sponsored by the Norwegian Embassy. I'm grateful for this opportunity to contribute to Africa's sustainable energy future!
 
  **`2024:`**
