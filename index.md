@@ -38,8 +38,8 @@ I’m experienced Remote Sensing and GIS expert, with a proven track record of l
 **`2022:`**
 
 * **November:** NASRDA 2022 GIS Day Celebration.
-* **June:** Joine as a deligate at the Conferenece of Youth on Environment and Climate (COYEC) 2022 under the theme Youth-Led Actions for Climate Resilience and Sustainable Development.
-* **June:** World Environment Day Conference, 2022.
+* **June:** Joine as a deligate at the Conferenece of Youth on Environment and Climate (COYEC) under the theme Youth-Led Actions for Climate Resilience and Sustainable Development.
+* **June:** World Environment Day Conference.
 
 
 
