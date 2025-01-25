@@ -14,7 +14,7 @@ header:
 ### Education
 
 `2012 - 2017`
-B. Tech. in Environment (Geo-Environmental) Technology, [Federal University of Technology Owerri](https://futo.edu.gov)
+B. Tech. in Environmental (Geo-Environmental) Technology, [Federal University of Technology Owerri](https://futo.edu.gov)
 
 `2023 - 2024`
 Certificate Course in Software Engineering, [ALX Africa](https://www.alxafrica.com)
