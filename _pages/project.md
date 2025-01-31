@@ -143,7 +143,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 <td class="td-align"><img src="/assets/images/se4all.png" alt="Image 5"/><br/>
       <label><strong>9.  <a href="https://nigeriase4all.gov.ng/">Central Database Mangement System (CDMS): Nigeria SEALL Webmap</a></strong></label><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">My involvement at INTEGRATION Consulting as a Geodata Analyst, enabled me to contribute this project under the Nigeria Energy Support Program (co-funded by the EU and German BMZ, implemented by GIZ). In this role, I was established as the primary point of contact for INTEGRATION, as regards geo-data collection, survey development, remote evaluation, as well as coordination and alignment of capacity-building efforts, ultimately enhancing GIS capabilities within REA and other relevant stakeholders.</p>
+      <p class="toggle-paragraph">My involvement at INTEGRATION Consulting as a Geodata Analyst, enabled me to contribute this project under the Nigeria Energy Support Program (co-funded by the EU and German BMZ, implemented by GIZ). In this role, I was established as the primary point of contact between REA and INTEGRATION Consulting, as regards geo-data collection, survey development, remote evaluation, as well as coordination and alignment of capacity-building efforts, ultimately enhancing GIS capabilities within REA and other relevant stakeholders.</p>
       </div>
 </td>  
 <td class="td-align"><img src="/assets/images/LAI_StockSnap_OOP3TR13DA.jpg" alt="Image 6"/><br/>
