@@ -71,6 +71,24 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 
 <body>
 <table>  
+<tr>
+<td class="td-align"><img src="/assets/images/atlas.gif" alt="Image 4"/><br/>
+      <label><strong>4. Automating Map Design and Presentation Using Python Script, QGIS Atlas and Expressions</strong></label><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph">QGIS Atlas is a powerful tool for automating the creation of map series by generating multiple maps based on data from a single layout template. Combined with QGIS expressions, it enables dynamic customization of map elements, such as labels, symbology, and annotations, tailored to each feature in the dataset. This automation streamlines repetitive mapping tasks, ensures consistency, and enhances efficiency in producing professional-quality maps, making it ideal for large-scale projects like site selection, land-use planning, and reporting.</p>
+      <p> See the <a href="https://github.com/martinsbuchi2/QGIS-Atlas.git"> GitHub link</a>
+      </p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/earth_engine.gif" alt="Image 3"/><br/>
+      <label><strong>3. Google Earth Engine (GEE): JavaScript API</strong></label><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph">GEE simplifies complex geospatial computations, such as image classification and time-series analysis, making it a vital tool for researchers, policymakers, and GIS professionals addressing global challenges.</p>
+      <p> See the <a href="https://code.earthengine.google.com/9442a8279cdde14de863805b5368ddd0"> Code link</a>
+      </p></div>
+</td>   
+
+</tr>
+
 <tr>  
 <td class="td-align"><img src="/assets/images/bikeTrack.gif" alt="Image 1"/><br/>
       <label><strong>1. Animating GPS Tracks using QGIS</strong></label><br/>
@@ -88,22 +106,7 @@ Through my work with INTEGRATION Consulting and the Rural Electrification Agency
 </tr>
 
 
-<tr>
-<td class="td-align"><img src="/assets/images/earth_engine.gif" alt="Image 3"/><br/>
-      <label><strong>3. Google Earth Engine (GEE): JavaScript API</strong></label><br/>
-       <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">GEE simplifies complex geospatial computations, such as image classification and time-series analysis, making it a vital tool for researchers, policymakers, and GIS professionals addressing global challenges.</p>
-      <p> See the <a href="https://code.earthengine.google.com/9442a8279cdde14de863805b5368ddd0"> Code link</a>
-      </p></div>
-</td>   
-<td class="td-align"><img src="/assets/images/atlas.gif" alt="Image 4"/><br/>
-      <label><strong>4. Automating Map Design and Presentation Using Python Script, QGIS Atlas and Expressions</strong></label><br/>
-       <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">QGIS Atlas is a powerful tool for automating the creation of map series by generating multiple maps based on data from a single layout template. Combined with QGIS expressions, it enables dynamic customization of map elements, such as labels, symbology, and annotations, tailored to each feature in the dataset. This automation streamlines repetitive mapping tasks, ensures consistency, and enhances efficiency in producing professional-quality maps, making it ideal for large-scale projects like site selection, land-use planning, and reporting.</p>
-      <p> See the <a href="https://github.com/martinsbuchi2/QGIS-Atlas.git"> GitHub link</a>
-      </p></div>
-</td>  
-</tr>
+
 
 <tr> 
 <td class="td-align"><img src="/assets/images/geonode.png" alt="Image 5"/><br/>
