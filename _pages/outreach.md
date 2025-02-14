@@ -102,7 +102,7 @@ My professional growth has greatly benefited from interacting with people from d
 </td>    
 </tr> 
  <tr> 
-<td class="td-align"><img src="/assets/images/ich.png" alt="Image 5"/><br/>
+<td class="td-align"><img src="/assets/images/ich.jpg" alt="Image 5"/><br/>
       <a href="https://example.com/link1">Hydropower Improvement: Leadership in Dam Safety, Cape Town, South Africa</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph">In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I was opportuned to participate in [Leadership in Dam Safety Seminar](https://ich.no/) organised by the [International Centre for Hydropower (ICH)](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, through the REA/Norwegian Embassy partinership. The highlight of this event was not just the learning opportunity but also meeting and to collaborating with Experts in the sector and profering solutions to Africa's sustainable energy future!.</p></div>
