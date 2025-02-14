@@ -115,12 +115,12 @@ My professional growth has greatly benefited from interacting with people from d
 
  <tr>
 <td class="td-align"><img src="/assets/images/gal1.jpg" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Gallery 1</a><br/>
+      <a href="">Gallery 1</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/gal2.jpg" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Gallery 1</a><br/>
+      <a href="">Gallery 1</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
@@ -128,12 +128,12 @@ My professional growth has greatly benefited from interacting with people from d
 
 <tr>
 <td class="td-align"><img src="/assets/images/gal3.jpg" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Gallery 3</a><br/>
+      <a href="">Gallery 3</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/gal4.jpg" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Gallery 4</a><br/>
+      <a href="">Gallery 4</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
