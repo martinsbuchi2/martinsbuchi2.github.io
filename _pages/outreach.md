@@ -124,7 +124,9 @@ My professional growth has greatly benefited from interacting with people from d
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
+</tr>
 
+<tr>
 <td class="td-align"><img src="/assets/images/gal3.jpg" alt="Image 6"/><br/>
       <a href="https://example.com/link1">Gallery 3</a><br/>
        <div class="paragraph-wrapper">
