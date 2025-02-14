@@ -101,12 +101,14 @@ My professional growth has greatly benefited from interacting with people from d
       </p></div>
 </td>    
 </tr> 
-<!-- <tr> 
-<td class="td-align"><img src="/assets/images/geonode.png" alt="Image 5"/><br/>
-      <a href="https://example.com/link1">Spatial Data Infrastructure with GeoNode, Geoserver, GeoDjango and Docker</a><br/>
+ <tr> 
+<td class="td-align"><img src="/assets/images/ich.png" alt="Image 5"/><br/>
+      <a href="https://example.com/link1">Hydropower Improvement: Leadership in Dam Safety, Cape Town, South Africa</a><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">Spatial Data Infrastructure (SDI) involves creating a framework for managing, sharing, and accessing geospatial data efficiently. GeoNode/GeoServer for geospatial data management, Docker for efficient deployment, and GeoDjango for custom spatial applications.</p></div>
-</td>  
+      <p class="toggle-paragraph">In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I was opportuned to participate in (https://ich.no/) [Leadership in Dam Safety Seminar] organised by the [International Centre for Hydropower (ICH)](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, through the REA/Norwegian Embassy partinership. The highlight of this event was not just the learning opportunity but also meeting and to collaborating with Experts in the sector and profering solutions to Africa's sustainable energy future!.</p></div>
+</td> 
+</tr>
+<!--  
 <td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
       <a href="https://example.com/link1">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
        <div class="paragraph-wrapper">
