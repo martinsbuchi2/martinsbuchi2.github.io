@@ -110,7 +110,9 @@ My professional growth has greatly benefited from interacting with people from d
 </tr>
 
 <tr>
+<td>
  <h1>Picture Gallery</h1>
+ </td>
  </tr>
 
  <tr>
