@@ -109,9 +109,9 @@ My professional growth has greatly benefited from interacting with people from d
 </td> 
 </tr>
 
-
+<tr>
  <h1>Picture Gallery</h1>
- 
+ </tr>
 
  <tr>
 <td class="td-align"><img src="/assets/images/gal1.jpg" alt="Image 6"/><br/>
