@@ -105,16 +105,25 @@ My professional growth has greatly benefited from interacting with people from d
 <td class="td-align"><img src="/assets/images/ich.png" alt="Image 5"/><br/>
       <a href="https://example.com/link1">Hydropower Improvement: Leadership in Dam Safety, Cape Town, South Africa</a><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I was opportuned to participate in (https://ich.no/) [Leadership in Dam Safety Seminar] organised by the [International Centre for Hydropower (ICH)](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, through the REA/Norwegian Embassy partinership. The highlight of this event was not just the learning opportunity but also meeting and to collaborating with Experts in the sector and profering solutions to Africa's sustainable energy future!.</p></div>
+      <p class="toggle-paragraph">In line with REA's efforts to diversify her renewable energy portfolio, particularly Small Hydropower Generation, I was opportuned to participate in [Leadership in Dam Safety Seminar](https://ich.no/) organised by the [International Centre for Hydropower (ICH)](https://drive.google.com/file/d/1BqrJ9TK-PV12YWvH1RAN6U6giX5gW4nT/view?usp=sharing) in Cape Town, South Africa, from 10–14 February 2025, through the REA/Norwegian Embassy partinership. The highlight of this event was not just the learning opportunity but also meeting and to collaborating with Experts in the sector and profering solutions to Africa's sustainable energy future!.</p></div>
 </td> 
 </tr>
-<!--  
-<td class="td-align"><img src="/assets/images/dashboard.png" alt="Image 6"/><br/>
-      <a href="https://example.com/link1">Applying ArcGIS Dashboard: REA Project Distribution</a><br/>
+ 
+ <br>
+ <h1>Picture Gallery</h1>
+ <br>
+<td class="td-align"><img src="/assets/images/gal1.png" alt="Image 6"/><br/>
+      <a href="https://example.com/link1">Gallery 1</a><br/>
        <div class="paragraph-wrapper">
-      <p class="toggle-paragraph">These visualizations provide insights into energy project distributions, grid extension coverage, and areas requiring intervention. Custom symbology, labeling, and spatial analytics allow stakeholders to identify patterns and prioritize efforts effectively, ensuring that unserved and underserved communities benefit from targeted energy access initiatives.</p></div>
+      <p class="toggle-paragraph"></p></div>
 </td>  
-</tr>   -->
+<td class="td-align"><img src="/assets/images/gal2.png" alt="Image 6"/><br/>
+      <a href="https://example.com/link1">Gallery 1</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+
+</tr>   
 </table>
  <script>
     document.addEventListener("DOMContentLoaded", () => {
