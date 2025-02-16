@@ -10,7 +10,7 @@ header:
   caption: Jabi Lake, Abuja, Nigeria 
 ---
 # Highlighting some of My Projects
-Through my work with INTEGRATION Consulting and the Rural Electrification Agency, I have contributed to innovative projects in **Earth Observation, Remote Sensing, GIS and Integrated Programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
+Through my work with the Rural Electrification Agency and NESP, I have contributed to innovative projects in **Earth Observation, Remote Sensing, GIS and Integrated Programming,** driving Geospatial solutions, advancing clean energy, and expanding Nigeria’s electrification network.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
