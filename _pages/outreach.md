@@ -11,7 +11,7 @@ header:
 ---
 # Outreach and Social Involvements
 
-My professional growth has greatly benefited from interacting with people from diverse cultures. From organizing community outreaches and working with stakeholders at REA to working with a global team at INTEGRATION Consulting.
+My professional growth has greatly benefited from interacting with people from diverse cultures. From organizing community outreaches and working with stakeholders at REA to working with a global team at NESP.
 
 <head>
   <!-- <meta charset="UTF-8">
