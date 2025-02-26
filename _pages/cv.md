@@ -36,6 +36,20 @@ Graduate Intern, [Nasarawa Urban Development Board](https://nasarawastate.gov.ng
 * `2017`
 Research Intern, [National Space Research and Development Agency](https://central.nasrda.gov.ng/) | `Abuja, Nigeria`
 
+### Selected Projects
+
+* `2025 - Ongoing`
+National Initiative for Public Sector Solarization
+
+* `2024 - 2025`
+ECOWAS PRODEL 20,000 
+
+* `2023 - 2024`
+Solar Power Naija (SPN) through the National Poverty Reduction with Growth Strategy (NPRGS)
+
+* `2022 - 2023`
+Nigeria Energy Support Program (NESP)
+
 ### Grants and Awards
 
 * `2019`
