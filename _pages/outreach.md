@@ -128,7 +128,7 @@ My professional growth has greatly benefited from interacting with people from d
       <p class="toggle-paragraph"></p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/gal2.jpg" alt="Image 6"/><br/>
-      <a href="">Gallery 1</a><br/>
+      <a href="">Gallery 2</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
@@ -164,12 +164,12 @@ My professional growth has greatly benefited from interacting with people from d
 
 <tr>
 <td class="td-align"><img src="/assets/images/gal7.jpg" alt="Image 6"/><br/>
-      <a href="">Gallery 5</a><br/>
+      <a href="">Gallery 7</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td>  
 <td class="td-align"><img src="/assets/images/gal8.jpg" alt="Image 6"/><br/>
-      <a href="">Gallery 6</a><br/>
+      <a href="">Gallery 8</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
