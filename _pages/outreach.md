@@ -134,18 +134,46 @@ My professional growth has greatly benefited from interacting with people from d
 </td> 
 </tr>
 
+
+
 <tr>
 <td class="td-align"><img src="/assets/images/gal3.jpg" alt="Image 6"/><br/>
       <a href="">Gallery 3</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td>  
-<td class="td-align"><img src="/assets/images/ich.mp4" alt="Image 6"/><br/>
+<td class="td-align"><img src="/assets/images/gal4.jpg" alt="Image 6"/><br/>
       <a href="">Gallery 4</a><br/>
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
-</tr>   
+</tr> 
+
+<tr>
+<td class="td-align"><img src="/assets/images/gal5.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 5</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/gal6.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 6</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr>
+
+<tr>
+<td class="td-align"><img src="/assets/images/gal7.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 5</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/gal8.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 6</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr>
 </table>
 
 
