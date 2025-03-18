@@ -165,6 +165,67 @@ Through my work with the Rural Electrification Agency and NESP, I have contribut
 </td>  
 </tr> 
 
+<tr>
+<td>
+ <h1>Picture Gallery</h1>
+ </td>
+ </tr>
+
+ <tr>
+<td class="td-align"><img src="/assets/images/g1.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 1</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/g2.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 2</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr>
+
+
+
+<tr>
+<td class="td-align"><img src="/assets/images/g3.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 3</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/g4.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 4</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr> 
+
+<tr>
+<td class="td-align"><img src="/assets/images/g5.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 5</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/g6.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 6</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr>
+
+<tr>
+<td class="td-align"><img src="/assets/images/g7.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 7</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td>  
+<td class="td-align"><img src="/assets/images/g8.jpg" alt="Image 6"/><br/>
+      <a href="">Gallery 8</a><br/>
+       <div class="paragraph-wrapper">
+      <p class="toggle-paragraph"></p></div>
+</td> 
+</tr>
+
+
 </table>
  <script>
     document.addEventListener("DOMContentLoaded", () => {
