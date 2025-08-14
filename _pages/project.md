@@ -165,7 +165,7 @@ Through my work with the Rural Electrification Agency and NESP, I have contribut
 </td>  
 </tr> 
 
-<tr>
+<!-- <tr>
 <td>
  <h1>Picture Gallery</h1>
  </td>
@@ -223,7 +223,7 @@ Through my work with the Rural Electrification Agency and NESP, I have contribut
        <div class="paragraph-wrapper">
       <p class="toggle-paragraph"></p></div>
 </td> 
-</tr>
+</tr> -->
 
 
 </table>
