@@ -13,13 +13,6 @@ I’m experienced Remote Sensing and GIS expert, with a proven track record of l
 
 ## [Download CV](https://drive.google.com/file/d/1tkLFHEBAa-kUmDhZMFezwS8hv2tERq5d/view?usp=sharing) | [See the Europass format](https://drive.google.com/file/d/1nmYhALcjy6R9zKAfx3UoRwfOyfzvxdX6/view?usp=sharing)
 
-### Education
-
-* `2012 - 2017`
-B. Tech. in Environmental (Geo-Environmental) Technology, [Federal University of Technology Owerri](https://futo.edu.gov)
-
-* `2023 - 2024`
-Certificate Course in Software Engineering, [ALX Africa](https://www.alxafrica.com)
 
 ### Profesional Experience
 
@@ -37,6 +30,16 @@ Graduate Intern, [Nasarawa Urban Development Board](https://nasarawastate.gov.ng
 
 * `2017`
 Research Intern, [National Space Research and Development Agency](https://central.nasrda.gov.ng/) | `Abuja, Nigeria`
+
+
+### Education
+
+* `2012 - 2017`
+B. Tech. in Environmental (Geo-Environmental) Technology, [Federal University of Technology Owerri](https://futo.edu.gov)
+
+* `2023 - 2024`
+Certificate Course in Software Engineering, [ALX Africa](https://www.alxafrica.com)
+
 
 ### Selected Projects
 
