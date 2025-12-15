@@ -10,6 +10,7 @@ header:
     caption: Jabi Lake, Abuja, Nigeria
 ---
 ### Recent Events: Conferences | Workshops | Courses & Training
+
 ### See [the Relevant Certificates & Recognitions](https://drive.google.com/file/d/1RHp71xfsW_uHDJtACXqliOICnyUUf80X/view?usp=sharing)
 
 
