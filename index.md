@@ -11,10 +11,13 @@ excerpt: ''
 
 I’m experienced Remote Sensing and GIS expert, with a proven track record of leveraging Integrated Programming, Earth Observation and GIS services to support informed decision-making. I am intellectually curious, a fast learner, result-oriented, intuitively data-driven, and desire opportunity to deepen my expertise and make an even more profound impact in society.
 
-## [Download CV](https://drive.google.com/file/d/1tkLFHEBAa-kUmDhZMFezwS8hv2tERq5d/view?usp=sharing) | [See the Europass format](https://drive.google.com/file/d/1nmYhALcjy6R9zKAfx3UoRwfOyfzvxdX6/view?usp=sharing)
+## [Download CV](https://drive.google.com/file/d/1Og4cujmnB--US0SpgEJiIfAWCcI0rqLJ/view?usp=sharing) | [See the Europass format](https://drive.google.com/file/d/1nmYhALcjy6R9zKAfx3UoRwfOyfzvxdX6/view?usp=sharing)
 
 
 ### Profesional Experience
+
+* `2025-present`
+Geospatial Intelligence Lead,  [Narimera](https://narimeraintelligence.com/) | `Remote, Nigeria`
 
 * `2023-present`
 Technical Assistant (on Geospatial Analysis) to the Executive Director, Technical Services, [Rural Electrification Agency of Nigeria](https://rea.gov.ng/) | `Abuja, Nigeria`
